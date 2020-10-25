@@ -23,6 +23,8 @@ Create a graph of the number of friends (y-axis) and the friends (x-axis) themse
 
 ![Q1 graph](./Q1b.png)
 
+The above graph show that the friendship paradox holds for a user's Facebook account. The point in the b ottom right corner is the user. As you can see the user is on the low end of the spectum.
+
 [question 1 b code](./question_1_b.ipynb)
 
 ### Q2. Friendship Paradox on Twitter
@@ -44,6 +46,8 @@ If you have less than 50 followers on Twitter, then you can use my Twitter accou
 [question 2 code](./question_2.ipynb)
 
 ![Q1 graph](./Q2b.png)
+
+The above graph show that the friendship paradox holds for a user's Twitter account. The point in the b ottom right corner is the user. As you can see the user is on the low end of the spectum. I am new to twitter so I used weiglemc account. I only use 100 of her followers. A few of her friends have about the same number of followers, but over all most of her followers have more followers than her. 
 
 ## Extra Credit
 
